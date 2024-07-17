@@ -6,8 +6,8 @@
         
         ## Exercise Brief
             1. Background
-               The goal is to build a straightforward To-Do List application that helps users keep track of their tasks. 
-               The app should provide essential functionalities such as adding, editing, deleting tasks, and organizing them by categories.
+                * The goal is to build a straightforward To-Do List application that helps users keep track of their tasks. 
+                * The app should provide essential functionalities such as adding, editing, deleting tasks, and organizing them by categories.
                
             2. Key Features
                 * Task Management:** Users can add, edit, and delete tasks.
